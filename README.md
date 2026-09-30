@@ -1,6 +1,6 @@
 # Pilot Captain Simulator (STAJ22001)
 
-Bu depo, **Kırklareli Üniversitesi Yazılım Mühendisliği Bölümü** bünyesinde yürütülen **STAJ22001** kodlu Mesleki Staj kapsamında **Rafora Bilişim** bünyesinde geliştirilen **Kılavuz Kaptan Transfer Simülasyonu (Pilot Captain Simulator)** projesinin kaynak kodlarını ve mimari bileşenlerini içermektedir.
+Bu depo, **Kırklareli Üniversitesi Yazılım Mühendisliği Bölümü** bünyesinde yürütülen **STAJ22001-STAJ22002** kodlu Mesleki Staj kapsamında **Rafora Bilişim** bünyesinde geliştirilen **Kılavuz Kaptan Transfer Simülasyonu (Pilot Captain Simulator)** projesinin kaynak kodlarını ve mimari bileşenlerini içermektedir.
 
 ---
 
@@ -69,7 +69,7 @@ graph TD
 - **Öğrenci:** Tunahan Yavuz
 - **Öğrenci No:** 1230505063
 - **Bölüm:** Kırklareli Üniversitesi - Yazılım Mühendisliği (3. Sınıf)
-- **Ders Kodu:** STAJ22001 - Mesleki Staj
+- **Ders Kodu:** STAJ22001-STAJ22002 - Mesleki Staj
 - **Firma:** Rafora Bilişim
 
 ---
