@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: "Assets/Scenes/Ana Men\xFC/MainMenu.unity"
+    guid: 3b38696a71c7e1f45a4e32f7b6eb244b
+  - enabled: 0
+    path: Assets/Scenes/Kurulum/kurulum.unity
+    guid: de1f5962d24478f44a1e3b25f91112d7
+  - enabled: 0
+    path: "Assets/Scenes/Sim\xFClasyon/Simulation.unity"
+    guid: 98393a24934d9a2489bc459b96b1ef0b
+  - enabled: 1
+    path: Assets/bosahne.unity
+    guid: d57fc47b9f785b54e8aa422a34e07090
+  - enabled: 1
+    path: Assets/bosahne2.unity
+    guid: 873b3e238d7ee6a4db6507385ee993c7
+  m_configObjects:
+    com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 35845fe01580c41289b024647b1d1c53, type: 3}
+    com.unity.xr.arfoundation.simulation_settings: {fileID: 11400000, guid: dece65d7c74f8a24b96fed585ac73686, type: 2}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: d510cd1e204a1ea439b896da44f570dd, type: 2}
+    com.unity.xr.openxr.settings4: {fileID: 11400000, guid: a64ce7fa4535a0d4db6070bd2e1989fd, type: 2}
+  m_UseUCBPForAssetBundles: 0
